@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/vikaspuri"><img src="https://api.daily.dev/devcards/v2/NuAV37BWQ8W71v9mYcGR5.png?r=tm0&type=wide" width="652" alt="vikas puri's Dev Card"/></a>
+
 <!--
 **Vikas-squarebox/Vikas-squarebox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
